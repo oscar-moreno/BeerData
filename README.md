@@ -9,7 +9,15 @@
 
 ![screenshot](BeerData/Assets.xcassets/Screenshot.png)
 ![screenshot](BeerData/Assets.xcassets/Screenshot-2.png)
-![screenshot](BeerData/Assets.xcassets/Screenshot-2.png)
+![screenshot](BeerData/Assets.xcassets/Screenshot-3.png)
+
+## Code Quality Status
+[![SonarCloud](https://sonarcloud.io/images/project_badges/sonarcloud-white.svg)](https://sonarcloud.io/summary/new_code?id=oscar-moreno_BeerData)<br>
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=oscar-moreno_BeerData&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=oscar-moreno_BeerData)<br>
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=oscar-moreno_BeerData&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=oscar-moreno_BeerData)<br>
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=oscar-moreno_BeerData&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=oscar-moreno_BeerData)<br>
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=oscar-moreno_BeerData&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=oscar-moreno_BeerData)<br><br>
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=oscar-moreno_BeerData&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=oscar-moreno_BeerData)<br><br>
 
 ## Key Features
 
