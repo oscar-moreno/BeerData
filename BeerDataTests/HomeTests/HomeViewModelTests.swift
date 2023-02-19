@@ -12,6 +12,7 @@ import XCTest
     
     private var sut: HomeViewModel!
     private let firstBeer = BeerModelElement(id: 1, name: "Fake Beer", tagline: "Fake beer 1 tagline", description: "Fake beer 1 tagline", imageURL: "https://images.punkapi.com/v2/keg.png", ingredients: Ingredients(malt: [Malt(name: "Caramal"), Malt(name: "Munich")]))
+    private let expectationDescription = "Fetch beers from service"
 
     override func setUpWithError() throws {
         sut = HomeViewModel()
@@ -24,7 +25,7 @@ import XCTest
     
     func testFetchBeersShouldGetBeers() {
         // Arrange
-        let expectation = expectation(description: "Fetch beers from service")
+        let expectation = expectation(description: expectationDescription)
         var actualResult = BeerModel()
         
         // Act
@@ -42,7 +43,7 @@ import XCTest
     
     func testFetchBeersShouldGetBeersSorted() {
         // Arrange
-        let expectation = expectation(description: "Fetch beers from service")
+        let expectation = expectation(description: expectationDescription)
         var expectedResult = BeerModel()
         expectedResult.append(firstBeer)
         var actualResult = BeerModel()
@@ -62,7 +63,7 @@ import XCTest
     
      func testSaveGoalsShouldSaveItInUserDefaults() {
         // Arrange
-        let expectation = expectation(description: "Fetch beers from service")
+        let expectation = expectation(description: expectationDescription)
         
         // Act
         sut.fetchBeers(completion: { result in

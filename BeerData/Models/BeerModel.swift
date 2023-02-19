@@ -11,7 +11,9 @@ typealias BeerModel = [BeerModelElement]
 
 struct BeerModelElement: Codable, Equatable {
     let id: Int
-    let name, tagline, description: String
+    let name: String
+    let tagline: String
+    let description: String
     let imageURL: String
     let ingredients: Ingredients
 
