@@ -17,7 +17,6 @@
 [![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=oscar-moreno_BeerData&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=oscar-moreno_BeerData)<br>
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=oscar-moreno_BeerData&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=oscar-moreno_BeerData)<br>
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=oscar-moreno_BeerData&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=oscar-moreno_BeerData)<br><br>
-[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=oscar-moreno_BeerData&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=oscar-moreno_BeerData)<br><br>
 
 ## Key Features
 
